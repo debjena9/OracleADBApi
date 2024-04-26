@@ -1,0 +1,6 @@
+@OracleDbAPI_HostAddress = http://localhost:5163
+
+GET {{OracleDbAPI_HostAddress}}/api/users
+Accept: application/json
+
+###
